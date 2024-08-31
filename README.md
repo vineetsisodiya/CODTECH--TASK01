@@ -12,3 +12,4 @@ Prerequisites Basic understanding of HTML, CSS, and JavaScript. A code editor li
 Files index.html: The main HTML file that structures the web page. style.css: The CSS file that styles the web page. script.js: The JavaScript file that handles the fetching and displaying of weather data.
 
 OUTPUT
+![Screenshot 2024-08-31 175754](https://github.com/user-attachments/assets/4575daa6-775a-419c-b56e-92d5e690e719)
