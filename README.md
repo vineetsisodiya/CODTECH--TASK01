@@ -1,5 +1,5 @@
 # CODTECH--TASK01
-NAME - VINEET SISODIYA COMPANY - CODTECH IT SOLUTIONS ID - CT08DS7084 DOMAIN - WEB DEVELOPMENT DURATION - AUGUST TO SEPTEMBER 2024
+NAME - VINEET SISODIYA COMPANY - CODTECH IT SOLUTIONS ID - CT08DS7084 DOMAIN - FRONTEND WEB DEVELOPMENT DURATION - AUGUST TO SEPTEMBER 2024
 
 Weather App This is a simple Weather Application that allows users to get the current weather information for a specified city. The app fetches data from the OpenWeatherMap API and displays it on the web page.
 
